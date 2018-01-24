@@ -1,4 +1,5 @@
-# Logan McManus: Project 3
+*Project 3*
+# Logan McManus: Ames Housing Data
 
 ### Repository Structure
 
